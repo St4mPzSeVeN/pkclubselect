@@ -4,7 +4,7 @@ $a = "localhost";
 
 $b = "pkclubse";
 
-$c = "8br6JD9D6:*Dpk";
+$c = "--------------";
 
 $d = "pkclubse_clubselect";
 
