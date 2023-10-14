@@ -64,8 +64,8 @@
 <div class="container-fluid text-dark" style="background-image: url('img/home-4.jpg'); background-repeat: no-repeat; background-size: cover; padding-top: 20vh; padding-bottom: 20vh">
 
 		<h4 style="background-color: hsla(0, 0%, 100%, 0.5); "><br>สามารถสมัครสมาชิคได้ที่ปุ่มสมัครสมาชิค <br>และควร Logout ทุกครั้งหลังใช้งานเสร็จแล้ว<br>
-			ระบบอยู่ในช่วงทดลอง หากมีข้อผิดพลาด<br>ให้ติดต่อผู้พัฒนาเว็บไซต์ที่อีเมล <br>jiwjirawat@gmail.com<br>
-			หรือติดต่ออาจารย์ อรจิรา มีศรี<br><br>
+			ระบบอยู่ในช่วงทดลอง หากมีข้อผิดพลาด<br>ให้ติดต่อผู้พัฒนาเว็บไซต์ที่อีเมล <br>----------@gmail.com<br>
+			หรือติดต่ออาจารย์ ---- ----<br><br>
 		</h4>
 
 </div>
